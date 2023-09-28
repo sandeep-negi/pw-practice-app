@@ -1,0 +1,14 @@
+{
+    "uat": {
+        "baseUrl": "http://uitestingplayground.com/ajaxdata/uat",
+        "localUrl" : "http://localhost:4200/"
+    },
+    "stg": {
+        "baseUrl": "http://uitestingplayground.com/ajaxdata/staging",
+        "localUrl" : "http://localhost:4200/"
+    },
+    "prod": {
+        "baseUrl": "http://uitestingplayground.com/ajaxdata/prod",
+        "localUrl" : "http://localhost:4200/"
+    }
+}
